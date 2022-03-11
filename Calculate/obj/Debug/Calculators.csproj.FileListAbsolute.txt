@@ -1,0 +1,6 @@
+C:\learn\C#\Calculate\bin\Debug\Calculate.dll
+C:\learn\C#\Calculate\bin\Debug\Calculate.pdb
+C:\learn\C#\Calculate\obj\Debug\Calculators.csproj.AssemblyReference.cache
+C:\learn\C#\Calculate\obj\Debug\Calculators.csproj.CoreCompileInputs.cache
+C:\learn\C#\Calculate\obj\Debug\Calculate.dll
+C:\learn\C#\Calculate\obj\Debug\Calculate.pdb

@@ -1,0 +1,8 @@
+C:\learn\C#\Study\bin\Debug\Study.exe.config
+C:\learn\C#\Study\bin\Debug\Study.exe
+C:\learn\C#\Study\bin\Debug\Study.pdb
+C:\learn\C#\Study\obj\Debug\Study.csproj.AssemblyReference.cache
+C:\learn\C#\Study\obj\Debug\Study.csproj.SuggestedBindingRedirects.cache
+C:\learn\C#\Study\obj\Debug\Study.csproj.CoreCompileInputs.cache
+C:\learn\C#\Study\obj\Debug\Study.exe
+C:\learn\C#\Study\obj\Debug\Study.pdb

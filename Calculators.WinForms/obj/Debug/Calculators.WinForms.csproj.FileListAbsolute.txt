@@ -1,0 +1,14 @@
+C:\learn\C#\Calculators.WinForms\bin\Debug\Calculators.WinForms.exe.config
+C:\learn\C#\Calculators.WinForms\bin\Debug\Calculators.WinForms.exe
+C:\learn\C#\Calculators.WinForms\bin\Debug\Calculators.WinForms.pdb
+C:\learn\C#\Calculators.WinForms\bin\Debug\Calculate.dll
+C:\learn\C#\Calculators.WinForms\bin\Debug\Calculate.pdb
+C:\learn\C#\Calculators.WinForms\obj\Debug\Calculators.WinForms.csproj.AssemblyReference.cache
+C:\learn\C#\Calculators.WinForms\obj\Debug\Calculators.WinForms.csproj.SuggestedBindingRedirects.cache
+C:\learn\C#\Calculators.WinForms\obj\Debug\Calculators.WinForms.Form1.resources
+C:\learn\C#\Calculators.WinForms\obj\Debug\Calculators.WinForms.Properties.Resources.resources
+C:\learn\C#\Calculators.WinForms\obj\Debug\Calculators.WinForms.csproj.GenerateResource.cache
+C:\learn\C#\Calculators.WinForms\obj\Debug\Calculators.WinForms.csproj.CoreCompileInputs.cache
+C:\learn\C#\Calculators.WinForms\obj\Debug\Calculators.WinForms.csproj.CopyComplete
+C:\learn\C#\Calculators.WinForms\obj\Debug\Calculators.WinForms.exe
+C:\learn\C#\Calculators.WinForms\obj\Debug\Calculators.WinForms.pdb
